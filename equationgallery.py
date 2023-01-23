@@ -2,7 +2,7 @@
 class equclass:
 
     def __init__(self, s1, s2, lister=[]):
-        self.eq = Class(s1, s2)
+        self.eq = Try(s1, s2)
         lister = list(self.list)
  
 
